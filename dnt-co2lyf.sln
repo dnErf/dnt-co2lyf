@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dnt-co2lyf", "dnt-co2lyf\dnt-co2lyf.csproj", "{29D569A1-48AC-4D39-8033-6834E13CE489}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dnt-co2lyf.Client", "dnt-co2lyf.Client\dnt-co2lyf.Client.csproj", "{203646E6-A612-44D7-A555-0934349FC245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29D569A1-48AC-4D39-8033-6834E13CE489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D569A1-48AC-4D39-8033-6834E13CE489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D569A1-48AC-4D39-8033-6834E13CE489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D569A1-48AC-4D39-8033-6834E13CE489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{203646E6-A612-44D7-A555-0934349FC245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203646E6-A612-44D7-A555-0934349FC245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{203646E6-A612-44D7-A555-0934349FC245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{203646E6-A612-44D7-A555-0934349FC245}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
